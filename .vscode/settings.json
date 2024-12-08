@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.enableImages": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "window.density.editorTabHeight": "compact",
+    "workbench.editor.openSideBySideDirection": "right"
+}
